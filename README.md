@@ -3,6 +3,8 @@
 - [Prune](http://www.prunegame.com/)
 
 ## Web Experiences
-### Interactive WebGL Films
- - [Through The Dark](https://throughthedark.withgoogle.com/)
-- [Prologue EP] https://emmitfenn.com/
+### WebGL Sites
+- [Prologue EP](https://emmitfenn.com/)
+  ### Interactive WebGL Films
+  - [Through The Dark](https://throughthedark.withgoogle.com/)
+  - [Prologue EP](https://emmitfenn.com/)
