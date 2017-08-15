@@ -5,6 +5,6 @@
 ## Web Experiences
 ### WebGL Sites
 - [Prologue EP](https://emmitfenn.com/)
-  ### Interactive WebGL Films
-  - [Through The Dark](https://throughthedark.withgoogle.com/)
-  - [Prologue EP](https://emmitfenn.com/)
+### Interactive WebGL Films
+- [Through The Dark](https://throughthedark.withgoogle.com/)
+- [Prologue EP](https://emmitfenn.com/)
