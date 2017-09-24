@@ -9,6 +9,7 @@
 - [Jam3 Site](http://www.jam3.com/)
 - [Pottermore](https://my.pottermore.com/hogwarts)
 - [Nocturne](http://nocturne.sydneyzh.com/)
+- [Moire](http://hughsk.io/moire-1/)
 ### Interactive WebGL Films
 - [Through The Dark](https://throughthedark.withgoogle.com/)
 ### WebVR
