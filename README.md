@@ -10,6 +10,7 @@
 - [Pottermore](https://my.pottermore.com/hogwarts)
 - [Nocturne](http://nocturne.sydneyzh.com/)
 - [Moire](http://hughsk.io/moire-1/)
+- [Pablo The Flamingo](http://pablotheflamingo.com/)
 ### Interactive WebGL Films
 - [Through The Dark](https://throughthedark.withgoogle.com/)
 ### WebVR
