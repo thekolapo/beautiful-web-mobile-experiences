@@ -5,6 +5,7 @@
 ## Web Experiences
 - [Species In Pieces](http://www.species-in-pieces.com/)
 - [HP Sound in Color](https://www.hpsoundincolor.com/)
+- [ShapeConnector](https://shapeconnector.com/)
 ### WebGL Sites
 - [Emmit Fenn](https://emmitfenn.com/)
 - [Oceana](http://stopoverfishing.eu/)
