@@ -14,6 +14,7 @@
 - [Nocturne](http://nocturne.sydneyzh.com/)
 - [Moire](http://hughsk.io/moire-1/)
 - [Pablo The Flamingo](http://pablotheflamingo.com/)
+- [Air France Music](https://music.airfrance.com/en)
 ### Interactive WebGL Films
 - [Through The Dark](https://throughthedark.withgoogle.com/)
 ### WebVR
