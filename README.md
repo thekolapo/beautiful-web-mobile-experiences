@@ -6,6 +6,7 @@
 - [Species In Pieces](http://www.species-in-pieces.com/)
 - [HP Sound in Color](https://www.hpsoundincolor.com/)
 - [ShapeConnector](https://shapeconnector.com/)
+- [Geometrize](http://www.samcodes.co.uk/project/geometrize-haxe-web/)
 ### WebGL Sites
 - [Emmit Fenn](https://emmitfenn.com/)
 - [Oceana](http://stopoverfishing.eu/)
