@@ -13,7 +13,7 @@
 - [Adoratorio](https://adoratorio.studio/)
 - [Kolapo Oni](http://thekolapo.com)
 ### WebGL Sites
-- [Beautiful Experiences](beautifulexperiences.xyz)
+- [Beautiful Experiences](http://beautifulexperiences.xyz)
 - [Tendril](https://tendril.ca/)
 - [SHIFTBRAIN Inc](http://www.shiftbrain.com/)
 - [Ronin161](http://www.ronin161.com/) 
