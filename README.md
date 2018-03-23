@@ -8,6 +8,10 @@
 - [ShapeConnector](https://shapeconnector.com/)
 - [Geometrize](http://www.samcodes.co.uk/project/geometrize-haxe-web/)
 - [Why Design](http://whydesign.ie/)
+- [Antoni](https://antoni.de/)
+- [The Mads](https://themads.agency/)
+- [Adoratorio](https://adoratorio.studio/)
+- [Kolapo Oni](https://thekolapo.com)
 ### WebGL Sites
 - [Beautiful Experiences](beautifulexperiences.xyz)
 - [Tendril](https://tendril.ca/)
