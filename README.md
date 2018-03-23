@@ -11,7 +11,7 @@
 - [Antoni](https://antoni.de/)
 - [The Mads](https://themads.agency/)
 - [Adoratorio](https://adoratorio.studio/)
-- [Kolapo Oni](https://thekolapo.com)
+- [Kolapo Oni](http://thekolapo.com)
 ### WebGL Sites
 - [Beautiful Experiences](beautifulexperiences.xyz)
 - [Tendril](https://tendril.ca/)
