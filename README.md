@@ -28,7 +28,8 @@
 - [The Musical Forest](https://forest.webvrexperiments.com/)
 - [Mr Nom Nom](https://mrnmnm.com/)
 - [Dunkirk](https://webvrgame.dunkirkmovie.com/)
+.
+.
+.
 
-
-I also created a [twitter bot](https://twitter.com/bexbot_) that retweets every creative project and beautiful website I tweet. Stay inspired and woke 👌🏾
 
